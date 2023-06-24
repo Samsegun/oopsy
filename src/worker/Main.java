@@ -25,6 +25,5 @@ public class Main {
         String test4 = "beyonce";
 
         System.out.printf("%s's age is %.2f%n", test4, (float)test3);
-        System.out.println("fet");
     }
 }
