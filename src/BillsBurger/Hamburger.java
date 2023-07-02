@@ -49,9 +49,6 @@ public class Hamburger {
     }
 
     public double itemizeHamburger() {
-//        System.out.println("One order of " + name + " on " +
-//                breadRollType + " with " + addition1Name + " " +
-//                addition2Name + " " + addition3Name + " " + addition4Name);
         return (price + addition1Price + addition2Price + addition3Price + addition4Price);
     }
 }
