@@ -12,7 +12,7 @@ public class ReverseArray {
         System.out.println(Arrays.toString(arr));
 
         int[][] nestedArr = new int[3][3];
-        int[][] nestedArr2 = new int[3][];
+        int[][] nestedArr2 = new int[3][2];
         System.out.println(Arrays.deepToString(nestedArr2));
     }
 
